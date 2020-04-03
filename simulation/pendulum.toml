@@ -1,0 +1,38 @@
+[video]
+filename = "../2019/crange/nessy/YI002801.mp4"
+
+[data]
+noise.accel.x = [-1.0, 1.0]
+noise.accel.y = [-1.0, 1.0]
+noise.accel.z = [-1.0, 1.0]
+noise.gyro.x = [-0.2, 0.2]
+noise.gyro.y = [-0.2, 0.2]
+noise.gyro.z = [-0.2, 0.2]
+
+[data.source]
+type = "sim_pendulum"
+radius = 16.0
+dt = 0.005
+duration = 360.0
+initial_angle = 1.0
+orientation_offset = 0.5
+rot_east = -0.2
+rot_north = 0.3
+rot_up = 0.4
+
+[hud.renderer]
+type = "pendulum"
+enable_rts_smoother = true
+active_row = 9
+initial = [1.0, 0.0, 16.0, 0.0, 0.0, 0.0, 0.0]
+
+[hud.renderer.stdev]
+accel.x = 1.0
+accel.y = 1.0
+accel.z = 1.0
+gyro.x = 0.2
+gyro.y = 0.2
+gyro.z = 0.2
+mag.x = 0.0
+mag.y = 0.0
+mag.z = 0.0
