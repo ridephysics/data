@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2720"
+   height="1520"
+   viewBox="0 0 719.66665 402.16668"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="outro_en.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:export-filename="/home/m1cha/ext/m1cha/data/ffproject/graphics/outro_en.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1504.2398"
+     inkscape:cy="807.28435"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1856"
+     inkscape:window-height="975"
+     inkscape:window-x="64"
+     inkscape:window-y="44"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,105.16668)">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815"
+       width="719.66669"
+       height="402.16666"
+       x="0"
+       y="-105.16667"
+       rx="0.52916664"
+       ry="0.52916664" />
+    <image
+       sodipodi:absref="/home/m1cha/ext/m1cha/data/ffproject/graphics/profile.png"
+       xlink:href="profile.png"
+       y="-27.583357"
+       x="227.54166"
+       id="image1079"
+       preserveAspectRatio="none"
+       height="264.58334"
+       width="264.58334" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Archivo Black';-inkscape-font-specification:'Archivo Black, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="162.13702"
+       y="-35.408348"
+       id="text835"><tspan
+         sodipodi:role="line"
+         x="162.13702"
+         y="-35.408348"
+         style="font-size:35.27777863px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1101">Thanks for watching</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Archivo Black';-inkscape-font-specification:'Archivo Black, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="40.809975"
+       y="241.07332"
+       id="text835-0"><tspan
+         sodipodi:role="line"
+         x="40.809975"
+         y="241.07332"
+         style="font-size:28.22222137px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan839-8">More information in the video description</tspan></text>
+  </g>
+</svg>
