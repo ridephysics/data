@@ -20,10 +20,6 @@ enable_rts_smoother = true
 active_row = 9
 initial = [0.0, 0.0, 14.5, -0.2, 0.0, 0.0, 0.0]
 
-[hud.renderer.override]
-radius = 14.5
-orientation_offset = -0.2556
-
 [hud.renderer.stdev]
 accel.x = 0.1
 accel.y = 0.1
