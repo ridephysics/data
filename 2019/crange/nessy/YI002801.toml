@@ -18,7 +18,7 @@ calibration = "../../../calibration/2020-03-20/info.calib"
 type = "pendulum"
 enable_rts_smoother = true
 active_row = 9
-initial = [0.0, 0.0, 14.5, -0.2, 0.0, 0.0, 0.0]
+initial = [0.0, 0.0, 14.6, -0.2743, 0.0, 0.0, 0.0]
 
 [hud.renderer.stdev]
 accel.x = 0.1
