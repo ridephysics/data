@@ -25,9 +25,9 @@ radius = 14.5
 orientation_offset = -0.2556
 
 [hud.renderer.stdev]
-accel.x = 1.0
-accel.y = 1.0
-accel.z = 1.0
+accel.x = 0.1
+accel.y = 0.1
+accel.z = 0.1
 gyro.x = 0.2
 gyro.y = 0.2
 gyro.z = 0.2
