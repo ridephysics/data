@@ -16,7 +16,7 @@ calibration = "../../../calibration/2020-03-20/info.calib"
 
 [hud.renderer]
 type = "pendulum"
-enable_rts_smoother = true
+enable_rts_smoother = false
 active_row = 9
 initial = [0.0, 0.0, 14.6, -0.2743, 0.0, 0.0, 0.0]
 initial_cov = [1.0e-12, 1.0e-12, 1.0e-12, 1.0e-12, 0.001, 0.001, 0.001]
@@ -28,6 +28,12 @@ accel.z = 0.1
 gyro.x = 0.2
 gyro.y = 0.2
 gyro.z = 0.2
+#accel.x = 0.0784532
+#accel.y = 0.0784532
+#accel.z = 0.0784532
+#gyro.x = 0.0017453292519943296
+#gyro.y = 0.0017453292519943296
+#gyro.z = 0.0017453292519943296
 mag.x = 0.0
 mag.y = 0.0
 mag.z = 0.0

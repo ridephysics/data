@@ -25,6 +25,7 @@ type = "pendulum"
 enable_rts_smoother = true
 active_row = 9
 initial = [1.0, 0.0, 16.0, 0.0, 0.0, 0.0, 0.0]
+initial_cov = [1.0e-12, 1.0e-12, 1.0e-12, 1.0e-12, 0.001, 0.001, 0.001]
 
 [hud.renderer.stdev]
 accel.x = 1.0
