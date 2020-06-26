@@ -1,13 +1,19 @@
 [video]
 filename = "YI002801.mp4"
 
+[data]
+noise.accel.x = [-1.0, 1.0]
+noise.accel.y = [-1.0, 1.0]
+noise.accel.z = [-1.0, 1.0]
+noise.gyro.x = [-0.2, 0.2]
+noise.gyro.y = [-0.2, 0.2]
+noise.gyro.z = [-0.2, 0.2]
+
 [data.source]
 type = "sim_pendulum"
 start_off = 135.6884
 radius = 14.6
 ship_arc_half_angle = 0.2743
-#orientation_offset = -0.2743
-#rot = [0.18337665, 0.16622258, -0.00134016]
 orientation_offset = 0.0
 rot = [0.0, 0.0, 0.0]
 dt = 0.005
@@ -33,8 +39,9 @@ control_input = [
 type = "pendulum"
 enable_rts_smoother = false
 active_row = 9
-initial = [0.0, 0.0, 14.6, -0.2743, 0.0, 0.0, 0.0, 0.0]
-initial_cov = [1.0e-12, 1.0e-12, 1.0e-12, 1.0e-12, 1.0e-12, 1.0e-12, 1.0e-12, 1.0]
+initial = [0.0, 0.0, 0.0]
+#initial_cov = [1.0e-6, 1.0e-6, 1.0e-12]
+initial_cov = [1.0e-3, 1.0e-3, 1.0e-6]
 
 [hud.renderer.stdev]
 accel.x = 0.1
